@@ -1,0 +1,1502 @@
+{
+  "geography": "IN",
+  "categories": {
+    "Autos and vehicles": {
+      "category_id": 1,
+      "category_name": "Autos and vehicles",
+      "trend_count": 2,
+      "trends": [
+        {
+          "rank": 1,
+          "title": "tata motors car sales",
+          "traffic": "5K+",
+          "started": "November 2, 2025 at 6:10:00 AM UTC+5:30",
+          "ended": "November 2, 2025 at 5:50:00 PM UTC+5:30",
+          "trend_breakdown": "tata motors car sales,tata motors car sales october 2025",
+          "explore_link": "https://trends.google.com/trends/explore?q=tata%20motors%20car%20sales&geo=IN&hl=en-US",
+          "timestamp": "2025-11-03T01:16:49.815365"
+        },
+        {
+          "rank": 2,
+          "title": "bajaj",
+          "traffic": "500+",
+          "started": "November 2, 2025 at 9:10:00 AM UTC+5:30",
+          "ended": "November 2, 2025 at 10:50:00 AM UTC+5:30",
+          "trend_breakdown": "bajaj",
+          "explore_link": "https://trends.google.com/trends/explore?q=bajaj&geo=IN&hl=en-US",
+          "timestamp": "2025-11-03T01:16:49.815419"
+        }
+      ],
+      "last_updated": "2025-11-03T01:16:49.900282"
+    },
+    "Beauty and fashion": {
+      "category_id": 2,
+      "category_name": "Beauty and fashion",
+      "trend_count": 1,
+      "trends": [
+        {
+          "rank": 1,
+          "title": "exercise",
+          "traffic": "100+",
+          "started": "November 2, 2025 at 7:10:00 AM UTC+5:30",
+          "ended": "November 2, 2025 at 8:10:00 AM UTC+5:30",
+          "trend_breakdown": "exercise",
+          "explore_link": "https://trends.google.com/trends/explore?q=exercise&geo=IN&hl=en-US",
+          "timestamp": "2025-11-03T01:17:01.417983"
+        }
+      ],
+      "last_updated": "2025-11-03T01:17:01.491775"
+    },
+    "Business and finance": {
+      "category_id": 3,
+      "category_name": "Business and finance",
+      "trend_count": 15,
+      "trends": [
+        {
+          "rank": 1,
+          "title": "aramco",
+          "traffic": "10K+",
+          "started": "November 2, 2025 at 5:30:00 PM UTC+5:30",
+          "ended": "",
+          "trend_breakdown": "aramco",
+          "explore_link": "https://trends.google.com/trends/explore?q=aramco&geo=IN&hl=en-US",
+          "timestamp": "2025-11-03T01:17:33.157758"
+        },
+        {
+          "rank": 2,
+          "title": "isro satellite launch",
+          "traffic": "20K+",
+          "started": "November 2, 2025 at 10:40:00 PM UTC+5:30",
+          "ended": "",
+          "trend_breakdown": "isro satellite launch,isro,isro cms 03 satellite launch,isro launches heaviest satellite,dawn,isro launch,cms 03,isro launch today,sriharikota,lvm3,rocket launch today,jitendra",
+          "explore_link": "https://trends.google.com/trends/explore?q=isro%20satellite%20launch&geo=IN&hl=en-US",
+          "timestamp": "2025-11-03T01:17:33.157806"
+        },
+        {
+          "rank": 3,
+          "title": "grse financial results announcement",
+          "traffic": "1K+",
+          "started": "November 2, 2025 at 11:50:00 PM UTC+5:30",
+          "ended": "",
+          "trend_breakdown": "grse financial results announcement",
+          "explore_link": "https://trends.google.com/trends/explore?q=grse%20financial%20results%20announcement&geo=IN&hl=en-US",
+          "timestamp": "2025-11-03T01:17:33.157832"
+        },
+        {
+          "rank": 4,
+          "title": "times of india",
+          "traffic": "500+",
+          "started": "November 3, 2025 at 12:40:00 AM UTC+5:30",
+          "ended": "",
+          "trend_breakdown": "times of india,china",
+          "explore_link": "https://trends.google.com/trends/explore?q=times%20of%20india&geo=IN&hl=en-US",
+          "timestamp": "2025-11-03T01:17:33.157854"
+        },
+        {
+          "rank": 5,
+          "title": "toi",
+          "traffic": "2K+",
+          "started": "November 3, 2025 at 12:10:00 AM UTC+5:30",
+          "ended": "",
+          "trend_breakdown": "toi,mercor",
+          "explore_link": "https://trends.google.com/trends/explore?q=toi&geo=IN&hl=en-US",
+          "timestamp": "2025-11-03T01:17:33.157872"
+        },
+        {
+          "rank": 6,
+          "title": "queens",
+          "traffic": "200+",
+          "started": "November 3, 2025 at 12:20:00 AM UTC+5:30",
+          "ended": "",
+          "trend_breakdown": "queens",
+          "explore_link": "https://trends.google.com/trends/explore?q=queens&geo=IN&hl=en-US",
+          "timestamp": "2025-11-03T01:17:33.157890"
+        },
+        {
+          "rank": 7,
+          "title": "tata motors car sales",
+          "traffic": "5K+",
+          "started": "November 2, 2025 at 6:10:00 AM UTC+5:30",
+          "ended": "November 2, 2025 at 5:50:00 PM UTC+5:30",
+          "trend_breakdown": "tata motors car sales,tata motors car sales october 2025",
+          "explore_link": "https://trends.google.com/trends/explore?q=tata%20motors%20car%20sales&geo=IN&hl=en-US",
+          "timestamp": "2025-11-03T01:17:33.157911"
+        },
+        {
+          "rank": 8,
+          "title": "itat delhi cash deposit case",
+          "traffic": "5K+",
+          "started": "November 2, 2025 at 1:40:00 PM UTC+5:30",
+          "ended": "November 2, 2025 at 5:00:00 PM UTC+5:30",
+          "trend_breakdown": "itat delhi cash deposit case",
+          "explore_link": "https://trends.google.com/trends/explore?q=itat%20delhi%20cash%20deposit%20case&geo=IN&hl=en-US",
+          "timestamp": "2025-11-03T01:17:33.157931"
+        },
+        {
+          "rank": 9,
+          "title": "jiostar",
+          "traffic": "2K+",
+          "started": "November 2, 2025 at 2:00:00 PM UTC+5:30",
+          "ended": "November 3, 2025 at 12:50:00 AM UTC+5:30",
+          "trend_breakdown": "jiostar",
+          "explore_link": "https://trends.google.com/trends/explore?q=jiostar&geo=IN&hl=en-US",
+          "timestamp": "2025-11-03T01:17:33.157993"
+        },
+        {
+          "rank": 10,
+          "title": "suzlon energy q2 earnings date",
+          "traffic": "500+",
+          "started": "November 2, 2025 at 10:00:00 PM UTC+5:30",
+          "ended": "November 2, 2025 at 11:40:00 PM UTC+5:30",
+          "trend_breakdown": "suzlon energy q2 earnings date",
+          "explore_link": "https://trends.google.com/trends/explore?q=suzlon%20energy%20q2%20earnings%20date&geo=IN&hl=en-US",
+          "timestamp": "2025-11-03T01:17:33.158014"
+        },
+        {
+          "rank": 11,
+          "title": "crypto exchange binance",
+          "traffic": "500+",
+          "started": "November 2, 2025 at 8:00:00 AM UTC+5:30",
+          "ended": "November 2, 2025 at 9:10:00 AM UTC+5:30",
+          "trend_breakdown": "crypto exchange binance",
+          "explore_link": "https://trends.google.com/trends/explore?q=crypto%20exchange%20binance&geo=IN&hl=en-US",
+          "timestamp": "2025-11-03T01:17:33.158033"
+        },
+        {
+          "rank": 12,
+          "title": "openai news today",
+          "traffic": "500+",
+          "started": "November 2, 2025 at 11:00:00 AM UTC+5:30",
+          "ended": "November 2, 2025 at 12:50:00 PM UTC+5:30",
+          "trend_breakdown": "openai news today",
+          "explore_link": "https://trends.google.com/trends/explore?q=openai%20news%20today&geo=IN&hl=en-US",
+          "timestamp": "2025-11-03T01:17:33.158051"
+        },
+        {
+          "rank": 13,
+          "title": "vitol",
+          "traffic": "200+",
+          "started": "November 2, 2025 at 11:10:00 AM UTC+5:30",
+          "ended": "November 2, 2025 at 12:00:00 PM UTC+5:30",
+          "trend_breakdown": "vitol",
+          "explore_link": "https://trends.google.com/trends/explore?q=vitol&geo=IN&hl=en-US",
+          "timestamp": "2025-11-03T01:17:33.158070"
+        },
+        {
+          "rank": 14,
+          "title": "सोना",
+          "traffic": "200+",
+          "started": "November 2, 2025 at 6:50:00 AM UTC+5:30",
+          "ended": "November 2, 2025 at 8:10:00 AM UTC+5:30",
+          "trend_breakdown": "सोना,आज सोने का भाव",
+          "explore_link": "https://trends.google.com/trends/explore?q=%E0%A4%B8%E0%A5%8B%E0%A4%A8%E0%A4%BE&geo=IN&hl=en-US",
+          "timestamp": "2025-11-03T01:17:33.158093"
+        },
+        {
+          "rank": 15,
+          "title": "hii",
+          "traffic": "100+",
+          "started": "November 2, 2025 at 7:50:00 AM UTC+5:30",
+          "ended": "November 2, 2025 at 8:20:00 AM UTC+5:30",
+          "trend_breakdown": "hii",
+          "explore_link": "https://trends.google.com/trends/explore?q=hii&geo=IN&hl=en-US",
+          "timestamp": "2025-11-03T01:17:33.158128"
+        }
+      ],
+      "last_updated": "2025-11-03T01:17:33.248913"
+    },
+    "Climate": {
+      "category_id": 20,
+      "category_name": "Climate",
+      "trend_count": 4,
+      "trends": [
+        {
+          "rank": 1,
+          "title": "weather hyderabad",
+          "traffic": "2K+",
+          "started": "November 2, 2025 at 6:50:00 PM UTC+5:30",
+          "ended": "November 2, 2025 at 8:10:00 PM UTC+5:30",
+          "trend_breakdown": "weather hyderabad,weather in hyderabad",
+          "explore_link": "https://trends.google.com/trends/explore?q=weather%20hyderabad&geo=IN&hl=en-US",
+          "timestamp": "2025-11-03T01:18:06.697582"
+        },
+        {
+          "rank": 2,
+          "title": "আজকের আবহাওয়া",
+          "traffic": "200+",
+          "started": "November 2, 2025 at 6:40:00 AM UTC+5:30",
+          "ended": "November 2, 2025 at 8:40:00 AM UTC+5:30",
+          "trend_breakdown": "আজকের আবহাওয়া",
+          "explore_link": "https://trends.google.com/trends/explore?q=%E0%A6%86%E0%A6%9C%E0%A6%95%E0%A7%87%E0%A6%B0%20%E0%A6%86%E0%A6%AC%E0%A6%B9%E0%A6%BE%E0%A6%93%E0%A6%AF%E0%A6%BC%E0%A6%BE&geo=IN&hl=en-US",
+          "timestamp": "2025-11-03T01:18:06.697628"
+        },
+        {
+          "rank": 3,
+          "title": "आज का मौसम bihar",
+          "traffic": "200+",
+          "started": "November 2, 2025 at 6:00:00 AM UTC+5:30",
+          "ended": "November 2, 2025 at 7:50:00 AM UTC+5:30",
+          "trend_breakdown": "आज का मौसम bihar",
+          "explore_link": "https://trends.google.com/trends/explore?q=%E0%A4%86%E0%A4%9C%20%E0%A4%95%E0%A4%BE%20%E0%A4%AE%E0%A5%8C%E0%A4%B8%E0%A4%AE%20bihar&geo=IN&hl=en-US",
+          "timestamp": "2025-11-03T01:18:06.697650"
+        },
+        {
+          "rank": 4,
+          "title": "delhi temperature",
+          "traffic": "100+",
+          "started": "November 2, 2025 at 3:50:00 AM UTC+5:30",
+          "ended": "November 2, 2025 at 5:10:00 AM UTC+5:30",
+          "trend_breakdown": "delhi temperature",
+          "explore_link": "https://trends.google.com/trends/explore?q=delhi%20temperature&geo=IN&hl=en-US",
+          "timestamp": "2025-11-03T01:18:06.697682"
+        }
+      ],
+      "last_updated": "2025-11-03T01:18:06.775114"
+    },
+    "Entertainment": {
+      "category_id": 4,
+      "category_name": "Entertainment",
+      "trend_count": 25,
+      "trends": [
+        {
+          "rank": 2,
+          "title": "king movie",
+          "traffic": "20K+",
+          "article_title": "20K+",
+          "article_source": null,
+          "timestamp": "2025-11-03T01:18:59.767481"
+        },
+        {
+          "rank": 3,
+          "title": "operation safed sagar netflix",
+          "traffic": "10K+",
+          "article_title": "10K+",
+          "article_source": null,
+          "timestamp": "2025-11-03T01:18:59.785218"
+        },
+        {
+          "rank": 4,
+          "title": "ekta kapoor",
+          "traffic": "10K+",
+          "article_title": "10K+",
+          "article_source": null,
+          "timestamp": "2025-11-03T01:18:59.815214"
+        },
+        {
+          "rank": 5,
+          "title": "priyanka chahar choudhary",
+          "traffic": "10K+",
+          "article_title": "10K+",
+          "article_source": null,
+          "timestamp": "2025-11-03T01:18:59.846822"
+        },
+        {
+          "rank": 6,
+          "title": "pranit more",
+          "traffic": "10K+",
+          "article_title": "10K+",
+          "article_source": null,
+          "timestamp": "2025-11-03T01:18:59.870010"
+        },
+        {
+          "rank": 7,
+          "title": "smriti mandhana boyfriend",
+          "traffic": "5K+",
+          "article_title": "5K+",
+          "article_source": null,
+          "timestamp": "2025-11-03T01:18:59.901551"
+        },
+        {
+          "rank": 8,
+          "title": "ikk kudi",
+          "traffic": "2K+",
+          "article_title": "2K+",
+          "article_source": null,
+          "timestamp": "2025-11-03T01:18:59.927821"
+        },
+        {
+          "rank": 9,
+          "title": "charles leclerc",
+          "traffic": "1K+",
+          "article_title": "1K+",
+          "article_source": null,
+          "timestamp": "2025-11-03T01:18:59.949230"
+        },
+        {
+          "rank": 10,
+          "title": "prajin",
+          "traffic": "5K+",
+          "article_title": "5K+",
+          "article_source": null,
+          "timestamp": "2025-11-03T01:18:59.986128"
+        },
+        {
+          "rank": 11,
+          "title": "chak de india",
+          "traffic": "1K+",
+          "article_title": "1K+",
+          "article_source": null,
+          "timestamp": "2025-11-03T01:19:00.023637"
+        },
+        {
+          "rank": 12,
+          "title": "ss rajamouli",
+          "traffic": "100K+",
+          "article_title": "100K+",
+          "article_source": null,
+          "timestamp": "2025-11-03T01:19:00.052700"
+        },
+        {
+          "rank": 13,
+          "title": "is harmanpreet kaur married",
+          "traffic": "1K+",
+          "article_title": "1K+",
+          "article_source": null,
+          "timestamp": "2025-11-03T01:19:00.073309"
+        },
+        {
+          "rank": 14,
+          "title": "david harbour",
+          "traffic": "2K+",
+          "article_title": "2K+",
+          "article_source": null,
+          "timestamp": "2025-11-03T01:19:00.094488"
+        },
+        {
+          "rank": 15,
+          "title": "armaan malik",
+          "traffic": "2K+",
+          "article_title": "2K+",
+          "article_source": null,
+          "timestamp": "2025-11-03T01:19:00.120686"
+        },
+        {
+          "rank": 16,
+          "title": "aaj tak",
+          "traffic": "2K+",
+          "article_title": "2K+",
+          "article_source": null,
+          "timestamp": "2025-11-03T01:19:00.141373"
+        },
+        {
+          "rank": 17,
+          "title": "amaal mallik",
+          "traffic": "1K+",
+          "article_title": "1K+",
+          "article_source": null,
+          "timestamp": "2025-11-03T01:19:00.159537"
+        },
+        {
+          "rank": 18,
+          "title": "amaal malik",
+          "traffic": "1K+",
+          "article_title": "1K+",
+          "article_source": null,
+          "timestamp": "2025-11-03T01:19:00.180578"
+        },
+        {
+          "rank": 19,
+          "title": "varun chakaravarthy",
+          "traffic": "20K+",
+          "article_title": "20K+",
+          "article_source": null,
+          "timestamp": "2025-11-03T01:19:00.206100"
+        },
+        {
+          "rank": 20,
+          "title": "women world cup 2017",
+          "traffic": "200+",
+          "article_title": "200+",
+          "article_source": null,
+          "timestamp": "2025-11-03T01:19:00.225571"
+        },
+        {
+          "rank": 21,
+          "title": "bigg boss elimination today",
+          "traffic": "500+",
+          "article_title": "500+",
+          "article_source": null,
+          "timestamp": "2025-11-03T01:19:00.247391"
+        },
+        {
+          "rank": 22,
+          "title": "smriti mandhana net worth",
+          "traffic": "500+",
+          "article_title": "500+",
+          "article_source": null,
+          "timestamp": "2025-11-03T01:19:00.266496"
+        },
+        {
+          "rank": 23,
+          "title": "bigg boss kannada",
+          "traffic": "2K+",
+          "article_title": "2K+",
+          "article_source": null,
+          "timestamp": "2025-11-03T01:19:00.285345"
+        },
+        {
+          "rank": 24,
+          "title": "star plus",
+          "traffic": "2K+",
+          "article_title": "2K+",
+          "article_source": null,
+          "timestamp": "2025-11-03T01:19:00.304515"
+        },
+        {
+          "rank": 25,
+          "title": "vijay sethupathi",
+          "traffic": "1K+",
+          "article_title": "1K+",
+          "article_source": null,
+          "timestamp": "2025-11-03T01:19:00.322440"
+        },
+        {
+          "rank": 26,
+          "title": "dies irae pranav mohanlal",
+          "traffic": "2K+",
+          "article_title": "2K+",
+          "article_source": null,
+          "timestamp": "2025-11-03T01:19:00.350982"
+        }
+      ],
+      "last_updated": "2025-11-03T01:19:00.428030"
+    },
+    "Food and drink": {
+      "category_id": 5,
+      "category_name": "Food and drink",
+      "trend_count": 0,
+      "trends": [],
+      "last_updated": "2025-11-03T01:19:11.883577"
+    },
+    "Games": {
+      "category_id": 6,
+      "category_name": "Games",
+      "trend_count": 8,
+      "trends": [
+        {
+          "rank": 2,
+          "title": "pmgc",
+          "traffic": "10K+",
+          "article_title": "10K+",
+          "article_source": null,
+          "timestamp": "2025-11-03T01:20:02.848155"
+        },
+        {
+          "rank": 3,
+          "title": "melbourne cup field 2025 justhorseracing.com.au",
+          "traffic": "1K+",
+          "article_title": "1K+",
+          "article_source": null,
+          "timestamp": "2025-11-03T01:20:02.873563"
+        },
+        {
+          "rank": 4,
+          "title": "divya deshmukh chess world cup",
+          "traffic": "10K+",
+          "article_title": "10K+",
+          "article_source": null,
+          "timestamp": "2025-11-03T01:20:02.891565"
+        },
+        {
+          "rank": 5,
+          "title": "kerala lottery results",
+          "traffic": "2K+",
+          "article_title": "2K+",
+          "article_source": null,
+          "timestamp": "2025-11-03T01:20:02.912535"
+        },
+        {
+          "rank": 6,
+          "title": "garena free fire max redeem codes",
+          "traffic": "5K+",
+          "article_title": "5K+",
+          "article_source": null,
+          "timestamp": "2025-11-03T01:20:02.933316"
+        },
+        {
+          "rank": 7,
+          "title": "bet365",
+          "traffic": "2K+",
+          "article_title": "2K+",
+          "article_source": null,
+          "timestamp": "2025-11-03T01:20:02.954559"
+        },
+        {
+          "rank": 8,
+          "title": "epic games",
+          "traffic": "500+",
+          "article_title": "500+",
+          "article_source": null,
+          "timestamp": "2025-11-03T01:20:02.971683"
+        },
+        {
+          "rank": 9,
+          "title": "gta 6",
+          "traffic": "100+",
+          "article_title": "100+",
+          "article_source": null,
+          "timestamp": "2025-11-03T01:20:02.987751"
+        }
+      ],
+      "last_updated": "2025-11-03T01:20:03.064640"
+    },
+    "Health": {
+      "category_id": 7,
+      "category_name": "Health",
+      "trend_count": 1,
+      "trends": [
+        {
+          "rank": 1,
+          "title": "exercise",
+          "traffic": "100+",
+          "started": "November 2, 2025 at 7:10:00 AM UTC+5:30",
+          "ended": "November 2, 2025 at 8:10:00 AM UTC+5:30",
+          "trend_breakdown": "exercise",
+          "explore_link": "https://trends.google.com/trends/explore?q=exercise&geo=IN&hl=en-US",
+          "timestamp": "2025-11-03T01:20:16.737394"
+        }
+      ],
+      "last_updated": "2025-11-03T01:20:16.826208"
+    },
+    "Hobbies and leisure": {
+      "category_id": 8,
+      "category_name": "Hobbies and leisure",
+      "trend_count": 5,
+      "trends": [
+        {
+          "rank": 2,
+          "title": "ekadashi ka paran kab hai",
+          "traffic": "5K+",
+          "article_title": "5K+",
+          "article_source": null,
+          "timestamp": "2025-11-03T01:21:08.983787"
+        },
+        {
+          "rank": 3,
+          "title": "मंगलाष्टक",
+          "traffic": "2K+",
+          "article_title": "2K+",
+          "article_source": null,
+          "timestamp": "2025-11-03T01:21:09.005596"
+        },
+        {
+          "rank": 4,
+          "title": "tulsi vivah 2025 timing",
+          "traffic": "1K+",
+          "article_title": "1K+",
+          "article_source": null,
+          "timestamp": "2025-11-03T01:21:09.029251"
+        },
+        {
+          "rank": 5,
+          "title": "kartiki ekadashi",
+          "traffic": "1K+",
+          "article_title": "1K+",
+          "article_source": null,
+          "timestamp": "2025-11-03T01:21:09.053577"
+        },
+        {
+          "rank": 6,
+          "title": "dev deepawali 2025",
+          "traffic": "200+",
+          "article_title": "200+",
+          "article_source": null,
+          "timestamp": "2025-11-03T01:21:09.073219"
+        }
+      ],
+      "last_updated": "2025-11-03T01:21:09.170411"
+    },
+    "Jobs and education": {
+      "category_id": 9,
+      "category_name": "Jobs and education",
+      "trend_count": 4,
+      "trends": [
+        {
+          "rank": 1,
+          "title": "school holiday november",
+          "traffic": "5K+",
+          "started": "November 2, 2025 at 11:40:00 PM UTC+5:30",
+          "ended": "",
+          "trend_breakdown": "school holiday november,november school holiday",
+          "explore_link": "https://trends.google.com/trends/explore?q=school%20holiday%20november&geo=IN&hl=en-US",
+          "timestamp": "2025-11-03T01:21:21.236204"
+        },
+        {
+          "rank": 2,
+          "title": "icai result",
+          "traffic": "500+",
+          "started": "November 2, 2025 at 11:20:00 PM UTC+5:30",
+          "ended": "",
+          "trend_breakdown": "icai result",
+          "explore_link": "https://trends.google.com/trends/explore?q=icai%20result&geo=IN&hl=en-US",
+          "timestamp": "2025-11-03T01:21:21.236252"
+        },
+        {
+          "rank": 3,
+          "title": "nta jee",
+          "traffic": "500+",
+          "started": "November 2, 2025 at 9:30:00 PM UTC+5:30",
+          "ended": "November 2, 2025 at 10:50:00 PM UTC+5:30",
+          "trend_breakdown": "nta jee",
+          "explore_link": "https://trends.google.com/trends/explore?q=nta%20jee&geo=IN&hl=en-US",
+          "timestamp": "2025-11-03T01:21:21.236278"
+        },
+        {
+          "rank": 4,
+          "title": "hsc exam time table 2026",
+          "traffic": "500+",
+          "started": "November 2, 2025 at 5:30:00 AM UTC+5:30",
+          "ended": "November 2, 2025 at 7:20:00 AM UTC+5:30",
+          "trend_breakdown": "hsc exam time table 2026",
+          "explore_link": "https://trends.google.com/trends/explore?q=hsc%20exam%20time%20table%202026&geo=IN&hl=en-US",
+          "timestamp": "2025-11-03T01:21:21.236319"
+        }
+      ],
+      "last_updated": "2025-11-03T01:21:21.305254"
+    },
+    "Law and government": {
+      "category_id": 10,
+      "category_name": "Law and government",
+      "trend_count": 17,
+      "trends": [
+        {
+          "rank": 2,
+          "title": "tech professional us visa refused",
+          "traffic": "20K+",
+          "article_title": "20K+",
+          "article_source": null,
+          "timestamp": "2025-11-03T01:22:13.205014"
+        },
+        {
+          "rank": 3,
+          "title": "ndtv",
+          "traffic": "500+",
+          "article_title": "500+",
+          "article_source": null,
+          "timestamp": "2025-11-03T01:22:13.225646"
+        },
+        {
+          "rank": 4,
+          "title": "ms dhoni",
+          "traffic": "200+",
+          "article_title": "200+",
+          "article_source": null,
+          "timestamp": "2025-11-03T01:22:13.243305"
+        },
+        {
+          "rank": 5,
+          "title": "amit baghel",
+          "traffic": "200+",
+          "article_title": "200+",
+          "article_source": null,
+          "timestamp": "2025-11-03T01:22:13.259966"
+        },
+        {
+          "rank": 6,
+          "title": "annamalai bjp",
+          "traffic": "2K+",
+          "article_title": "2K+",
+          "article_source": null,
+          "timestamp": "2025-11-03T01:22:13.276986"
+        },
+        {
+          "rank": 7,
+          "title": "itat delhi cash deposit case",
+          "traffic": "5K+",
+          "article_title": "5K+",
+          "article_source": null,
+          "timestamp": "2025-11-03T01:22:13.294064"
+        },
+        {
+          "rank": 8,
+          "title": "प्रधानमंत्री ग्रामीण आवास योजना",
+          "traffic": "2K+",
+          "article_title": "2K+",
+          "article_source": null,
+          "timestamp": "2025-11-03T01:22:13.319397"
+        },
+        {
+          "rank": 9,
+          "title": "jdu",
+          "traffic": "2K+",
+          "article_title": "2K+",
+          "article_source": null,
+          "timestamp": "2025-11-03T01:22:13.346626"
+        },
+        {
+          "rank": 10,
+          "title": "aaj tak news",
+          "traffic": "500+",
+          "article_title": "500+",
+          "article_source": null,
+          "timestamp": "2025-11-03T01:22:13.364888"
+        },
+        {
+          "rank": 11,
+          "title": "पीएम किसान 21वीं किस्त",
+          "traffic": "2K+",
+          "article_title": "2K+",
+          "article_source": null,
+          "timestamp": "2025-11-03T01:22:13.386147"
+        },
+        {
+          "rank": 12,
+          "title": "pm awas yojana",
+          "traffic": "500+",
+          "article_title": "500+",
+          "article_source": null,
+          "timestamp": "2025-11-03T01:22:13.403162"
+        },
+        {
+          "rank": 13,
+          "title": "jogi ramesh",
+          "traffic": "200+",
+          "article_title": "200+",
+          "article_source": null,
+          "timestamp": "2025-11-03T01:22:13.421059"
+        },
+        {
+          "rank": 14,
+          "title": "8वें वेतन आयोग सैलरी",
+          "traffic": "200+",
+          "article_title": "200+",
+          "article_source": null,
+          "timestamp": "2025-11-03T01:22:13.451436"
+        },
+        {
+          "rank": 15,
+          "title": "westpac",
+          "traffic": "200+",
+          "article_title": "200+",
+          "article_source": null,
+          "timestamp": "2025-11-03T01:22:13.477041"
+        },
+        {
+          "rank": 16,
+          "title": "andhrajyothy",
+          "traffic": "100+",
+          "article_title": "100+",
+          "article_source": null,
+          "timestamp": "2025-11-03T01:22:13.492352"
+        },
+        {
+          "rank": 17,
+          "title": "hii",
+          "traffic": "100+",
+          "article_title": "100+",
+          "article_source": null,
+          "timestamp": "2025-11-03T01:22:13.507109"
+        },
+        {
+          "rank": 18,
+          "title": "uidai aadhaar",
+          "traffic": "200+",
+          "article_title": "200+",
+          "article_source": null,
+          "timestamp": "2025-11-03T01:22:13.523024"
+        }
+      ],
+      "last_updated": "2025-11-03T01:22:13.603865"
+    },
+    "Other": {
+      "category_id": 11,
+      "category_name": "Other",
+      "trend_count": 23,
+      "trends": [
+        {
+          "rank": 1,
+          "title": "aus vs ind",
+          "traffic": "500K+",
+          "started": "November 2, 2025 at 1:10:00 PM UTC+5:30",
+          "ended": "November 2, 2025 at 5:30:00 PM UTC+5:30",
+          "trend_breakdown": "aus vs ind,live cricket score cricbuzz,ind aus t20,ind vs as,ind vs aus 2nd t20,hotstar live match,ind va aus,ind vs asu,ind vs aus toss time,ind vs ais,ind vs aus time,bharat-australia match,australia vs india tickets",
+          "explore_link": "https://trends.google.com/trends/explore?q=aus%20vs%20ind&geo=IN&hl=en-US",
+          "timestamp": "2025-11-03T01:22:25.667370"
+        },
+        {
+          "rank": 2,
+          "title": "news",
+          "traffic": "2K+",
+          "started": "November 3, 2025 at 12:00:00 AM UTC+5:30",
+          "ended": "",
+          "trend_breakdown": "news",
+          "explore_link": "https://trends.google.com/trends/explore?q=news&geo=IN&hl=en-US",
+          "timestamp": "2025-11-03T01:22:25.667416"
+        },
+        {
+          "rank": 3,
+          "title": "nita ambani birthday",
+          "traffic": "5K+",
+          "started": "November 2, 2025 at 11:40:00 AM UTC+5:30",
+          "ended": "",
+          "trend_breakdown": "nita ambani birthday,mukesh ambani,neeta ambani",
+          "explore_link": "https://trends.google.com/trends/explore?q=nita%20ambani%20birthday&geo=IN&hl=en-US",
+          "timestamp": "2025-11-03T01:22:25.667442"
+        },
+        {
+          "rank": 4,
+          "title": "sachin tendulkar",
+          "traffic": "500+",
+          "started": "November 3, 2025 at 12:30:00 AM UTC+5:30",
+          "ended": "",
+          "trend_breakdown": "sachin tendulkar",
+          "explore_link": "https://trends.google.com/trends/explore?q=sachin%20tendulkar&geo=IN&hl=en-US",
+          "timestamp": "2025-11-03T01:22:25.667465"
+        },
+        {
+          "rank": 5,
+          "title": "palak muchhal",
+          "traffic": "1K+",
+          "started": "November 2, 2025 at 5:50:00 PM UTC+5:30",
+          "ended": "",
+          "trend_breakdown": "palak muchhal",
+          "explore_link": "https://trends.google.com/trends/explore?q=palak%20muchhal&geo=IN&hl=en-US",
+          "timestamp": "2025-11-03T01:22:25.667486"
+        },
+        {
+          "rank": 6,
+          "title": "breaking news",
+          "traffic": "200+",
+          "started": "November 3, 2025 at 12:10:00 AM UTC+5:30",
+          "ended": "",
+          "trend_breakdown": "breaking news",
+          "explore_link": "https://trends.google.com/trends/explore?q=breaking%20news&geo=IN&hl=en-US",
+          "timestamp": "2025-11-03T01:22:25.667505"
+        },
+        {
+          "rank": 7,
+          "title": "news today",
+          "traffic": "500+",
+          "started": "November 3, 2025 at 12:20:00 AM UTC+5:30",
+          "ended": "November 3, 2025 at 1:10:00 AM UTC+5:30",
+          "trend_breakdown": "news today",
+          "explore_link": "https://trends.google.com/trends/explore?q=news%20today&geo=IN&hl=en-US",
+          "timestamp": "2025-11-03T01:22:25.667527"
+        },
+        {
+          "rank": 8,
+          "title": "weekly horoscope",
+          "traffic": "500+",
+          "started": "November 2, 2025 at 10:40:00 PM UTC+5:30",
+          "ended": "November 3, 2025 at 1:10:00 AM UTC+5:30",
+          "trend_breakdown": "weekly horoscope",
+          "explore_link": "https://trends.google.com/trends/explore?q=weekly%20horoscope&geo=IN&hl=en-US",
+          "timestamp": "2025-11-03T01:22:25.667547"
+        },
+        {
+          "rank": 9,
+          "title": "lagnanantar hoilach prem",
+          "traffic": "2K+",
+          "started": "November 2, 2025 at 5:40:00 PM UTC+5:30",
+          "ended": "November 2, 2025 at 10:50:00 PM UTC+5:30",
+          "trend_breakdown": "lagnanantar hoilach prem",
+          "explore_link": "https://trends.google.com/trends/explore?q=lagnanantar%20hoilach%20prem&geo=IN&hl=en-US",
+          "timestamp": "2025-11-03T01:22:25.667568"
+        },
+        {
+          "rank": 10,
+          "title": "nita ambani",
+          "traffic": "2K+",
+          "started": "November 2, 2025 at 7:00:00 PM UTC+5:30",
+          "ended": "November 2, 2025 at 9:40:00 PM UTC+5:30",
+          "trend_breakdown": "nita ambani,नीता अंबानी",
+          "explore_link": "https://trends.google.com/trends/explore?q=nita%20ambani&geo=IN&hl=en-US",
+          "timestamp": "2025-11-03T01:22:25.667588"
+        },
+        {
+          "rank": 11,
+          "title": "barnala",
+          "traffic": "500+",
+          "started": "November 2, 2025 at 10:20:00 PM UTC+5:30",
+          "ended": "November 3, 2025 at 12:40:00 AM UTC+5:30",
+          "trend_breakdown": "barnala",
+          "explore_link": "https://trends.google.com/trends/explore?q=barnala&geo=IN&hl=en-US",
+          "timestamp": "2025-11-03T01:22:25.667608"
+        },
+        {
+          "rank": 12,
+          "title": "dry day today",
+          "traffic": "2K+",
+          "started": "November 2, 2025 at 6:40:00 PM UTC+5:30",
+          "ended": "November 2, 2025 at 10:10:00 PM UTC+5:30",
+          "trend_breakdown": "dry day today,dry day in mumbai,is today a dry day",
+          "explore_link": "https://trends.google.com/trends/explore?q=dry%20day%20today&geo=IN&hl=en-US",
+          "timestamp": "2025-11-03T01:22:25.667627"
+        },
+        {
+          "rank": 13,
+          "title": "bbc",
+          "traffic": "200+",
+          "started": "November 2, 2025 at 5:10:00 AM UTC+5:30",
+          "ended": "",
+          "trend_breakdown": "bbc",
+          "explore_link": "https://trends.google.com/trends/explore?q=bbc&geo=IN&hl=en-US",
+          "timestamp": "2025-11-03T01:22:25.667645"
+        },
+        {
+          "rank": 14,
+          "title": "cr",
+          "traffic": "2K+",
+          "started": "November 2, 2025 at 3:30:00 PM UTC+5:30",
+          "ended": "November 2, 2025 at 6:00:00 PM UTC+5:30",
+          "trend_breakdown": "cr",
+          "explore_link": "https://trends.google.com/trends/explore?q=cr&geo=IN&hl=en-US",
+          "timestamp": "2025-11-03T01:22:25.667663"
+        },
+        {
+          "rank": 15,
+          "title": "sengottaiyan",
+          "traffic": "1K+",
+          "started": "November 2, 2025 at 8:10:00 AM UTC+5:30",
+          "ended": "November 2, 2025 at 12:40:00 PM UTC+5:30",
+          "trend_breakdown": "sengottaiyan",
+          "explore_link": "https://trends.google.com/trends/explore?q=sengottaiyan&geo=IN&hl=en-US",
+          "timestamp": "2025-11-03T01:22:25.667681"
+        },
+        {
+          "rank": 16,
+          "title": "હવામાન",
+          "traffic": "5K+",
+          "started": "November 2, 2025 at 7:40:00 AM UTC+5:30",
+          "ended": "November 2, 2025 at 8:50:00 AM UTC+5:30",
+          "trend_breakdown": "હવામાન",
+          "explore_link": "https://trends.google.com/trends/explore?q=%E0%AA%B9%E0%AA%B5%E0%AA%BE%E0%AA%AE%E0%AA%BE%E0%AA%A8&geo=IN&hl=en-US",
+          "timestamp": "2025-11-03T01:22:25.667704"
+        },
+        {
+          "rank": 17,
+          "title": "neerja modi school",
+          "traffic": "500+",
+          "started": "November 2, 2025 at 1:50:00 PM UTC+5:30",
+          "ended": "November 2, 2025 at 11:50:00 PM UTC+5:30",
+          "trend_breakdown": "neerja modi school",
+          "explore_link": "https://trends.google.com/trends/explore?q=neerja%20modi%20school&geo=IN&hl=en-US",
+          "timestamp": "2025-11-03T01:22:25.667723"
+        },
+        {
+          "rank": 18,
+          "title": "nigeria",
+          "traffic": "1K+",
+          "started": "November 2, 2025 at 7:50:00 AM UTC+5:30",
+          "ended": "November 2, 2025 at 1:10:00 PM UTC+5:30",
+          "trend_breakdown": "nigeria",
+          "explore_link": "https://trends.google.com/trends/explore?q=nigeria&geo=IN&hl=en-US",
+          "timestamp": "2025-11-03T01:22:25.667742"
+        },
+        {
+          "rank": 19,
+          "title": "november 2",
+          "traffic": "500+",
+          "started": "November 2, 2025 at 7:20:00 AM UTC+5:30",
+          "ended": "November 2, 2025 at 9:20:00 AM UTC+5:30",
+          "trend_breakdown": "november 2,vogue horoscope today,2",
+          "explore_link": "https://trends.google.com/trends/explore?q=november%202&geo=IN&hl=en-US",
+          "timestamp": "2025-11-03T01:22:25.667761"
+        },
+        {
+          "rank": 20,
+          "title": "rma",
+          "traffic": "200+",
+          "started": "November 2, 2025 at 1:50:00 AM UTC+5:30",
+          "ended": "November 2, 2025 at 4:00:00 AM UTC+5:30",
+          "trend_breakdown": "rma",
+          "explore_link": "https://trends.google.com/trends/explore?q=rma&geo=IN&hl=en-US",
+          "timestamp": "2025-11-03T01:22:25.667779"
+        },
+        {
+          "rank": 21,
+          "title": "chronicle",
+          "traffic": "200+",
+          "started": "November 2, 2025 at 12:30:00 PM UTC+5:30",
+          "ended": "November 2, 2025 at 1:30:00 PM UTC+5:30",
+          "trend_breakdown": "chronicle",
+          "explore_link": "https://trends.google.com/trends/explore?q=chronicle&geo=IN&hl=en-US",
+          "timestamp": "2025-11-03T01:22:25.667797"
+        },
+        {
+          "rank": 22,
+          "title": "venkateswara swamy",
+          "traffic": "200+",
+          "started": "November 2, 2025 at 6:10:00 AM UTC+5:30",
+          "ended": "November 2, 2025 at 7:50:00 AM UTC+5:30",
+          "trend_breakdown": "venkateswara swamy",
+          "explore_link": "https://trends.google.com/trends/explore?q=venkateswara%20swamy&geo=IN&hl=en-US",
+          "timestamp": "2025-11-03T01:22:25.667816"
+        },
+        {
+          "rank": 23,
+          "title": "souls day",
+          "traffic": "100+",
+          "started": "November 2, 2025 at 9:00:00 AM UTC+5:30",
+          "ended": "November 2, 2025 at 9:40:00 AM UTC+5:30",
+          "trend_breakdown": "souls day",
+          "explore_link": "https://trends.google.com/trends/explore?q=souls%20day&geo=IN&hl=en-US",
+          "timestamp": "2025-11-03T01:22:25.667850"
+        }
+      ],
+      "last_updated": "2025-11-03T01:22:25.750813"
+    },
+    "Pets and animals": {
+      "category_id": 13,
+      "category_name": "Pets and animals",
+      "trend_count": 0,
+      "trends": [],
+      "last_updated": "2025-11-03T01:23:16.895231"
+    },
+    "Politics": {
+      "category_id": 14,
+      "category_name": "Politics",
+      "trend_count": 10,
+      "trends": [
+        {
+          "rank": 1,
+          "title": "2002 voter list west bengal",
+          "traffic": "100K+",
+          "started": "November 2, 2025 at 5:20:00 PM UTC+5:30",
+          "ended": "",
+          "trend_breakdown": "2002 voter list west bengal,voter rolls,chief electoral officer west bengal,2002 voter list,chief electoral officer,ceowestbengal.wb.gov.in,west bengal voter list,ceo west bengal voter list,2002 voter list west bengal north 24 parganas,chief election officer west bengal,sir 2002 west bengal,ceo west bengal 2002,voter,election commission 2002 voter list,west bengal 2002 voter list",
+          "explore_link": "https://trends.google.com/trends/explore?q=2002%20voter%20list%20west%20bengal&geo=IN&hl=en-US",
+          "timestamp": "2025-11-03T01:23:28.445077"
+        },
+        {
+          "rank": 2,
+          "title": "cwc",
+          "traffic": "2K+",
+          "started": "November 2, 2025 at 3:20:00 PM UTC+5:30",
+          "ended": "",
+          "trend_breakdown": "cwc",
+          "explore_link": "https://trends.google.com/trends/explore?q=cwc&geo=IN&hl=en-US",
+          "timestamp": "2025-11-03T01:23:28.445117"
+        },
+        {
+          "rank": 3,
+          "title": "amit shah",
+          "traffic": "500+",
+          "started": "November 3, 2025 at 12:30:00 AM UTC+5:30",
+          "ended": "",
+          "trend_breakdown": "amit shah,amit shah son",
+          "explore_link": "https://trends.google.com/trends/explore?q=amit%20shah&geo=IN&hl=en-US",
+          "timestamp": "2025-11-03T01:23:28.445129"
+        },
+        {
+          "rank": 4,
+          "title": "rahul gandhi",
+          "traffic": "1K+",
+          "started": "November 2, 2025 at 6:10:00 PM UTC+5:30",
+          "ended": "",
+          "trend_breakdown": "rahul gandhi",
+          "explore_link": "https://trends.google.com/trends/explore?q=rahul%20gandhi&geo=IN&hl=en-US",
+          "timestamp": "2025-11-03T01:23:28.445140"
+        },
+        {
+          "rank": 5,
+          "title": "annamalai bjp",
+          "traffic": "2K+",
+          "started": "November 2, 2025 at 1:20:00 PM UTC+5:30",
+          "ended": "November 3, 2025 at 12:20:00 AM UTC+5:30",
+          "trend_breakdown": "annamalai bjp",
+          "explore_link": "https://trends.google.com/trends/explore?q=annamalai%20bjp&geo=IN&hl=en-US",
+          "timestamp": "2025-11-03T01:23:28.445154"
+        },
+        {
+          "rank": 6,
+          "title": "jdu",
+          "traffic": "2K+",
+          "started": "November 2, 2025 at 7:10:00 AM UTC+5:30",
+          "ended": "November 2, 2025 at 12:30:00 PM UTC+5:30",
+          "trend_breakdown": "jdu,anant singh arrested,anant singh news,jdu party,mokama,anant singh arrest",
+          "explore_link": "https://trends.google.com/trends/explore?q=jdu&geo=IN&hl=en-US",
+          "timestamp": "2025-11-03T01:23:28.445165"
+        },
+        {
+          "rank": 7,
+          "title": "bihar election 2025 result date",
+          "traffic": "1K+",
+          "started": "November 2, 2025 at 2:20:00 AM UTC+5:30",
+          "ended": "November 2, 2025 at 10:10:00 AM UTC+5:30",
+          "trend_breakdown": "bihar election 2025 result date,rjd,bihar election,bihar news",
+          "explore_link": "https://trends.google.com/trends/explore?q=bihar%20election%202025%20result%20date&geo=IN&hl=en-US",
+          "timestamp": "2025-11-03T01:23:28.445193"
+        },
+        {
+          "rank": 8,
+          "title": "electoral roll",
+          "traffic": "500+",
+          "started": "November 2, 2025 at 8:40:00 PM UTC+5:30",
+          "ended": "November 2, 2025 at 9:20:00 PM UTC+5:30",
+          "trend_breakdown": "electoral roll,voter eci",
+          "explore_link": "https://trends.google.com/trends/explore?q=electoral%20roll&geo=IN&hl=en-US",
+          "timestamp": "2025-11-03T01:23:28.445205"
+        },
+        {
+          "rank": 9,
+          "title": "jogi ramesh",
+          "traffic": "200+",
+          "started": "November 2, 2025 at 8:40:00 AM UTC+5:30",
+          "ended": "November 2, 2025 at 10:30:00 AM UTC+5:30",
+          "trend_breakdown": "jogi ramesh",
+          "explore_link": "https://trends.google.com/trends/explore?q=jogi%20ramesh&geo=IN&hl=en-US",
+          "timestamp": "2025-11-03T01:23:28.445216"
+        },
+        {
+          "rank": 10,
+          "title": "ka sengottaiyan",
+          "traffic": "100+",
+          "started": "November 2, 2025 at 7:40:00 AM UTC+5:30",
+          "ended": "November 2, 2025 at 8:30:00 AM UTC+5:30",
+          "trend_breakdown": "ka sengottaiyan",
+          "explore_link": "https://trends.google.com/trends/explore?q=ka%20sengottaiyan&geo=IN&hl=en-US",
+          "timestamp": "2025-11-03T01:23:28.445240"
+        }
+      ],
+      "last_updated": "2025-11-03T01:23:28.514768"
+    },
+    "Science": {
+      "category_id": 15,
+      "category_name": "Science",
+      "trend_count": 3,
+      "trends": [
+        {
+          "rank": 1,
+          "title": "isro satellite launch",
+          "traffic": "20K+",
+          "started": "November 2, 2025 at 10:40:00 PM UTC+5:30",
+          "ended": "",
+          "trend_breakdown": "isro satellite launch,isro,isro cms 03 satellite launch,isro launches heaviest satellite,dawn,isro launch,cms 03,isro launch today,sriharikota,lvm3,rocket launch today",
+          "explore_link": "https://trends.google.com/trends/explore?q=isro%20satellite%20launch&geo=IN&hl=en-US",
+          "timestamp": "2025-11-03T01:24:01.353144"
+        },
+        {
+          "rank": 2,
+          "title": "moon",
+          "traffic": "200+",
+          "started": "November 2, 2025 at 8:00:00 PM UTC+5:30",
+          "ended": "November 2, 2025 at 9:10:00 PM UTC+5:30",
+          "trend_breakdown": "moon",
+          "explore_link": "https://trends.google.com/trends/explore?q=moon&geo=IN&hl=en-US",
+          "timestamp": "2025-11-03T01:24:01.353188"
+        },
+        {
+          "rank": 3,
+          "title": "interstellar comet 3i atlas nasa",
+          "traffic": "1K+",
+          "started": "November 2, 2025 at 6:30:00 AM UTC+5:30",
+          "ended": "November 2, 2025 at 8:40:00 AM UTC+5:30",
+          "trend_breakdown": "interstellar comet 3i atlas nasa,interstellar,3i atlas latest news",
+          "explore_link": "https://trends.google.com/trends/explore?q=interstellar%20comet%203i%20atlas%20nasa&geo=IN&hl=en-US",
+          "timestamp": "2025-11-03T01:24:01.353299"
+        }
+      ],
+      "last_updated": "2025-11-03T01:24:01.437951"
+    },
+    "Shopping": {
+      "category_id": 16,
+      "category_name": "Shopping",
+      "trend_count": 0,
+      "trends": [],
+      "last_updated": "2025-11-03T01:24:27.167275"
+    },
+    "Sports": {
+      "category_id": 17,
+      "category_name": "Sports",
+      "trend_count": 25,
+      "trends": [
+        {
+          "rank": 2,
+          "title": "india women vs south africa women",
+          "traffic": "10M+",
+          "article_title": "10M+",
+          "article_source": null,
+          "timestamp": "2025-11-03T01:25:18.759462"
+        },
+        {
+          "rank": 3,
+          "title": "laura wolvaardt",
+          "traffic": "500K+",
+          "article_title": "500K+",
+          "article_source": null,
+          "timestamp": "2025-11-03T01:25:18.802362"
+        },
+        {
+          "rank": 4,
+          "title": "barcelona vs elche",
+          "traffic": "200K+",
+          "article_title": "200K+",
+          "article_source": null,
+          "timestamp": "2025-11-03T01:25:18.850120"
+        },
+        {
+          "rank": 5,
+          "title": "jitesh sharma",
+          "traffic": "5M+",
+          "article_title": "5M+",
+          "article_source": null,
+          "timestamp": "2025-11-03T01:25:18.882863"
+        },
+        {
+          "rank": 6,
+          "title": "man city vs bournemouth",
+          "traffic": "100K+",
+          "article_title": "100K+",
+          "article_source": null,
+          "timestamp": "2025-11-03T01:25:18.937488"
+        },
+        {
+          "rank": 7,
+          "title": "chloe tryon",
+          "traffic": "100K+",
+          "article_title": "100K+",
+          "article_source": null,
+          "timestamp": "2025-11-03T01:25:18.962435"
+        },
+        {
+          "rank": 8,
+          "title": "mithali raj",
+          "traffic": "50K+",
+          "article_title": "50K+",
+          "article_source": null,
+          "timestamp": "2025-11-03T01:25:18.997910"
+        },
+        {
+          "rank": 9,
+          "title": "renuka singh",
+          "traffic": "100K+",
+          "article_title": "100K+",
+          "article_source": null,
+          "timestamp": "2025-11-03T01:25:19.024653"
+        },
+        {
+          "rank": 10,
+          "title": "nadine de klerk",
+          "traffic": "100K+",
+          "article_title": "100K+",
+          "article_source": null,
+          "timestamp": "2025-11-03T01:25:19.058401"
+        },
+        {
+          "rank": 11,
+          "title": "anneke bosch",
+          "traffic": "100K+",
+          "article_title": "100K+",
+          "article_source": null,
+          "timestamp": "2025-11-03T01:25:19.104292"
+        },
+        {
+          "rank": 12,
+          "title": "marizanne kapp",
+          "traffic": "100K+",
+          "article_title": "100K+",
+          "article_source": null,
+          "timestamp": "2025-11-03T01:25:19.133248"
+        },
+        {
+          "rank": 13,
+          "title": "nonkululeko mlaba",
+          "traffic": "50K+",
+          "article_title": "50K+",
+          "article_source": null,
+          "timestamp": "2025-11-03T01:25:19.160997"
+        },
+        {
+          "rank": 14,
+          "title": "richa ghosh",
+          "traffic": "100K+",
+          "article_title": "100K+",
+          "article_source": null,
+          "timestamp": "2025-11-03T01:25:19.180893"
+        },
+        {
+          "rank": 15,
+          "title": "jhulan goswami",
+          "traffic": "20K+",
+          "article_title": "20K+",
+          "article_source": null,
+          "timestamp": "2025-11-03T01:25:19.198728"
+        },
+        {
+          "rank": 16,
+          "title": "शेफाली वर्मा",
+          "traffic": "100K+",
+          "article_title": "100K+",
+          "article_source": null,
+          "timestamp": "2025-11-03T01:25:19.228360"
+        },
+        {
+          "rank": 17,
+          "title": "west ham vs newcastle",
+          "traffic": "20K+",
+          "article_title": "20K+",
+          "article_source": null,
+          "timestamp": "2025-11-03T01:25:19.255884"
+        },
+        {
+          "rank": 18,
+          "title": "sean abbott",
+          "traffic": "50K+",
+          "article_title": "50K+",
+          "article_source": null,
+          "timestamp": "2025-11-03T01:25:19.279399"
+        },
+        {
+          "rank": 19,
+          "title": "pratika rawal",
+          "traffic": "20K+",
+          "article_title": "20K+",
+          "article_source": null,
+          "timestamp": "2025-11-03T01:25:19.297488"
+        },
+        {
+          "rank": 20,
+          "title": "sree charani",
+          "traffic": "10K+",
+          "article_title": "10K+",
+          "article_source": null,
+          "timestamp": "2025-11-03T01:25:19.321283"
+        },
+        {
+          "rank": 21,
+          "title": "amol muzumdar",
+          "traffic": "200K+",
+          "article_title": "200K+",
+          "article_source": null,
+          "timestamp": "2025-11-03T01:25:19.350731"
+        },
+        {
+          "rank": 22,
+          "title": "barca",
+          "traffic": "20K+",
+          "article_title": "20K+",
+          "article_source": null,
+          "timestamp": "2025-11-03T01:25:19.380613"
+        },
+        {
+          "rank": 23,
+          "title": "milan vs roma",
+          "traffic": "2K+",
+          "article_title": "2K+",
+          "article_source": null,
+          "timestamp": "2025-11-03T01:25:19.397759"
+        },
+        {
+          "rank": 24,
+          "title": "wwc 2025",
+          "traffic": "20K+",
+          "article_title": "20K+",
+          "article_source": null,
+          "timestamp": "2025-11-03T01:25:19.417535"
+        },
+        {
+          "rank": 25,
+          "title": "t20 world cup",
+          "traffic": "10K+",
+          "article_title": "10K+",
+          "article_source": null,
+          "timestamp": "2025-11-03T01:25:19.435589"
+        },
+        {
+          "rank": 26,
+          "title": "wpl",
+          "traffic": "5K+",
+          "article_title": "5K+",
+          "article_source": null,
+          "timestamp": "2025-11-03T01:25:19.463165"
+        }
+      ],
+      "last_updated": "2025-11-03T01:25:19.560249"
+    },
+    "Technology": {
+      "category_id": 18,
+      "category_name": "Technology",
+      "trend_count": 5,
+      "trends": [
+        {
+          "rank": 1,
+          "title": "jiohotstar",
+          "traffic": "100K+",
+          "started": "November 2, 2025 at 1:50:00 PM UTC+5:30",
+          "ended": "November 3, 2025 at 12:20:00 AM UTC+5:30",
+          "trend_breakdown": "jiohotstar,jio hotstar,hotstar jio,disney+ hotstar",
+          "explore_link": "https://trends.google.com/trends/explore?q=jiohotstar&geo=IN&hl=en-US",
+          "timestamp": "2025-11-03T01:25:33.618455"
+        },
+        {
+          "rank": 2,
+          "title": "pixel 10",
+          "traffic": "2K+",
+          "started": "November 2, 2025 at 5:40:00 PM UTC+5:30",
+          "ended": "",
+          "trend_breakdown": "pixel 10",
+          "explore_link": "https://trends.google.com/trends/explore?q=pixel%2010&geo=IN&hl=en-US",
+          "timestamp": "2025-11-03T01:25:33.618491"
+        },
+        {
+          "rank": 3,
+          "title": "jio",
+          "traffic": "2K+",
+          "started": "November 2, 2025 at 2:20:00 PM UTC+5:30",
+          "ended": "November 3, 2025 at 12:40:00 AM UTC+5:30",
+          "trend_breakdown": "jio",
+          "explore_link": "https://trends.google.com/trends/explore?q=jio&geo=IN&hl=en-US",
+          "timestamp": "2025-11-03T01:25:33.618510"
+        },
+        {
+          "rank": 4,
+          "title": "google pixel 9",
+          "traffic": "500+",
+          "started": "November 2, 2025 at 10:10:00 PM UTC+5:30",
+          "ended": "November 2, 2025 at 11:20:00 PM UTC+5:30",
+          "trend_breakdown": "google pixel 9",
+          "explore_link": "https://trends.google.com/trends/explore?q=google%20pixel%209&geo=IN&hl=en-US",
+          "timestamp": "2025-11-03T01:25:33.618528"
+        },
+        {
+          "rank": 5,
+          "title": "s25 ultra",
+          "traffic": "1K+",
+          "started": "November 2, 2025 at 4:20:00 PM UTC+5:30",
+          "ended": "November 2, 2025 at 6:00:00 PM UTC+5:30",
+          "trend_breakdown": "s25 ultra",
+          "explore_link": "https://trends.google.com/trends/explore?q=s25%20ultra&geo=IN&hl=en-US",
+          "timestamp": "2025-11-03T01:25:33.618555"
+        }
+      ],
+      "last_updated": "2025-11-03T01:25:33.700277"
+    },
+    "Travel and transportation": {
+      "category_id": 19,
+      "category_name": "Travel and transportation",
+      "trend_count": 2,
+      "trends": [
+        {
+          "rank": 1,
+          "title": "queens",
+          "traffic": "200+",
+          "started": "November 3, 2025 at 12:20:00 AM UTC+5:30",
+          "ended": "November 3, 2025 at 1:20:00 AM UTC+5:30",
+          "trend_breakdown": "queens",
+          "explore_link": "https://trends.google.com/trends/explore?q=queens&geo=IN&hl=en-US",
+          "timestamp": "2025-11-03T01:26:06.571173"
+        },
+        {
+          "rank": 2,
+          "title": "taj mahal",
+          "traffic": "100+",
+          "started": "November 2, 2025 at 2:20:00 AM UTC+5:30",
+          "ended": "November 2, 2025 at 3:30:00 AM UTC+5:30",
+          "trend_breakdown": "taj mahal",
+          "explore_link": "https://trends.google.com/trends/explore?q=taj%20mahal&geo=IN&hl=en-US",
+          "timestamp": "2025-11-03T01:26:06.571225"
+        }
+      ],
+      "last_updated": "2025-11-03T01:26:06.658126"
+    }
+  },
+  "metadata": {
+    "scrape_started": "2025-11-03T01:16:38.195338",
+    "last_updated": "2025-11-03T01:26:06.658165",
+    "total_trends": 150,
+    "categories_count": 19,
+    "source": "playwright_csv_export",
+    "scrape_duration_seconds": 568.462827
+  }
+}
